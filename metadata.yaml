@@ -1,0 +1,35 @@
+_repo: The-Golden-Asse_1666
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Adlington, William, active 1566
+    gutenberg_agent_id: '686'
+    url: http://www.gutenberg.org/2009/agents/686
+creator:
+  author:
+    agent_name: Apuleius
+    aliases:
+    - Apuleius, Lucius
+    - Apuleius Platonicus Madaurensis
+    gutenberg_agent_id: '685'
+    url: http://www.gutenberg.org/2009/agents/685
+    wikipedia: http://en.wikipedia.org/wiki/Apuleius
+description: Metamorphoses. English
+gutenberg_bookshelf:
+- Banned Books from Anne Haight's list
+- Classical Antiquity
+gutenberg_issued: '2006-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1666'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Metamorphosis -- Fiction'
+- !lcc 'PA'
+- !lcsh 'Classical literature'
+- GITenberg
+title: The Golden Asse
+url: http://www.gutenberg.org/ebooks/1666
